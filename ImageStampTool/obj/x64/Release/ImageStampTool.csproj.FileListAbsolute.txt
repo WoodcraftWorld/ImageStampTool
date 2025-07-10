@@ -1,0 +1,15 @@
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Release\ImageStampTool.exe.config
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Release\ImageStampTool.exe
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Release\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Release\ImageStampTool.csproj.AssemblyReference.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Release\ImageStampTool.Form1.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Release\ImageStampTool.Properties.Resources.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Release\ImageStampTool.csproj.GenerateResource.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Release\ImageStampTool.csproj.CoreCompileInputs.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Release\ImageSta.00E3131F.Up2Date
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Release\ImageStampTool.exe
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Release\ImageStampTool.pdb

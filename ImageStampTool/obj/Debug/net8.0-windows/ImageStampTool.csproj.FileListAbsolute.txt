@@ -1,0 +1,16 @@
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\net8.0-windows\ImageStampTool.exe
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\net8.0-windows\ImageStampTool.dll.config
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\net8.0-windows\ImageStampTool.deps.json
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\net8.0-windows\ImageStampTool.runtimeconfig.json
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\net8.0-windows\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\net8.0-windows\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\ImageStampTool.Form1.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\ImageStampTool.Properties.Resources.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\ImageStampTool.csproj.GenerateResource.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\ImageStampTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\ImageStampTool.csproj.CoreCompileInputs.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\refint\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\ImageStampTool.genruntimeconfig.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\net8.0-windows\ref\ImageStampTool.dll

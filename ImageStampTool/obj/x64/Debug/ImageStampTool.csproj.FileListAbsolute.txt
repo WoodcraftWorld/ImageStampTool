@@ -1,0 +1,10 @@
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Debug\ImageStampTool.exe.config
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Debug\ImageStampTool.exe
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\x64\Debug\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Debug\ImageStampTool.csproj.AssemblyReference.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Debug\ImageStampTool.Form1.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Debug\ImageStampTool.Properties.Resources.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Debug\ImageStampTool.csproj.GenerateResource.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Debug\ImageStampTool.csproj.CoreCompileInputs.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Debug\ImageStampTool.exe
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\x64\Debug\ImageStampTool.pdb

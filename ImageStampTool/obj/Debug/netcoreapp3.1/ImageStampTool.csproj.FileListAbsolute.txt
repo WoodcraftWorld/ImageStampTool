@@ -1,0 +1,15 @@
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\netcoreapp3.1\ImageStampTool.exe
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\netcoreapp3.1\ImageStampTool.dll.config
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\netcoreapp3.1\ImageStampTool.deps.json
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\netcoreapp3.1\ImageStampTool.runtimeconfig.json
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\netcoreapp3.1\ImageStampTool.runtimeconfig.dev.json
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\netcoreapp3.1\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Debug\netcoreapp3.1\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\netcoreapp3.1\ImageStampTool.Form1.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\netcoreapp3.1\ImageStampTool.Properties.Resources.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\netcoreapp3.1\ImageStampTool.csproj.GenerateResource.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\netcoreapp3.1\ImageStampTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\netcoreapp3.1\ImageStampTool.csproj.CoreCompileInputs.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\netcoreapp3.1\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\netcoreapp3.1\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Debug\netcoreapp3.1\ImageStampTool.genruntimeconfig.cache

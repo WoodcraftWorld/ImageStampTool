@@ -1,0 +1,16 @@
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-x86\ImageStampTool.exe
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-x86\ImageStampTool.dll.config
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-x86\ImageStampTool.deps.json
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-x86\ImageStampTool.runtimeconfig.json
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-x86\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-x86\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\ImageStampTool.Form1.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\ImageStampTool.Properties.Resources.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\ImageStampTool.csproj.GenerateResource.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\ImageStampTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\ImageStampTool.csproj.CoreCompileInputs.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\refint\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\ImageStampTool.genruntimeconfig.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-x86\ref\ImageStampTool.dll

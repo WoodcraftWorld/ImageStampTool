@@ -1,0 +1,3 @@
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\publish\win-x86\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\publish\win-x86\ImageStampTool.dll.config
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\publish\win-x86\ImageStampTool.exe

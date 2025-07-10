@@ -1,0 +1,16 @@
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-arm64\ImageStampTool.exe
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-arm64\ImageStampTool.dll.config
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-arm64\ImageStampTool.deps.json
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-arm64\ImageStampTool.runtimeconfig.json
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-arm64\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\bin\Release\net8.0-windows\win-arm64\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\ImageStampTool.Form1.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\ImageStampTool.Properties.Resources.resources
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\ImageStampTool.csproj.GenerateResource.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\ImageStampTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\ImageStampTool.csproj.CoreCompileInputs.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\refint\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\ImageStampTool.pdb
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\ImageStampTool.genruntimeconfig.cache
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\win-arm64\ref\ImageStampTool.dll
