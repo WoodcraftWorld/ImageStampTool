@@ -14,3 +14,4 @@ C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\n
 C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\ImageStampTool.pdb
 C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\ImageStampTool.genruntimeconfig.cache
 C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\ref\ImageStampTool.dll
+C:\Users\WoodcraftWorld\source\repos\ImageStampTool\ImageStampTool\obj\Release\net8.0-windows\ImageStampTool.sourcelink.json

@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F223929-65A4-4749-890A-19E7DE5B8230}|InstallerAMD64\\InstallerAMD64.wixproj|c:\\users\\woodcraftworld\\source\\repos\\imagestamptool\\installeramd64\\package.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F223929-65A4-4749-890A-19E7DE5B8230}|InstallerAMD64\\InstallerAMD64.wixproj|solutionrelative:installeramd64\\package.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ImageStampTool||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|c:\\users\\woodcraftworld\\source\\repos\\imagestamptool\\imagestamptool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|solutionrelative:imagestamptool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\ImageStampTool\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ImageStampTool\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|c:\\users\\woodcraftworld\\source\\repos\\imagestamptool\\imagestamptool\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|solutionrelative:imagestamptool\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|c:\\users\\woodcraftworld\\source\\repos\\imagestamptool\\imagestamptool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,8 +22,8 @@
       "RelativeMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|solutionrelative:imagestamptool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|c:\\users\\woodcraftworld\\source\\repos\\imagestamptool\\imagestamptool\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|solutionrelative:imagestamptool\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|c:\\users\\woodcraftworld\\source\\repos\\imagestamptool\\imagestamptool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|solutionrelative:imagestamptool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8D903B4-B377-4457-8B15-49641C4FF232}|ImageStampTool\\ImageStampTool.csproj|c:\\users\\woodcraftworld\\source\\repos\\imagestamptool\\imagestamptool\\imagestamptool.csproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532",
@@ -37,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -47,7 +47,7 @@
               "RelativeDocumentMoniker": "ImageStampTool\\Form1.cs",
               "ToolTip": "C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\ImageStampTool\\Form1.cs",
               "RelativeToolTip": "ImageStampTool\\Form1.cs",
-              "ViewState": "AgIAAEMBAAAANTMzM7MpwFABAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAC0BAADAZmZmZiYwwE0BAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T15:50:07.798Z",
               "IsPinned": true,
@@ -67,12 +67,29 @@
               "EditorCaption": " [Design]"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.wxs",
+              "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\InstallerAMD64\\Package.wxs",
+              "RelativeDocumentMoniker": "InstallerAMD64\\Package.wxs",
+              "ToolTip": "C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\InstallerAMD64\\Package.wxs",
+              "RelativeToolTip": "InstallerAMD64\\Package.wxs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "71fa8cad-8471-402b-834a-c68922df4385.000080|",
+              "WhenOpened": "2025-07-11T16:03:37.548Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\ImageStampTool\\Program.cs",
               "RelativeDocumentMoniker": "ImageStampTool\\Program.cs",
@@ -80,23 +97,11 @@
               "RelativeToolTip": "ImageStampTool\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:37:46.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T15:37:46.884Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\ImageStampTool\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "ImageStampTool\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\ImageStampTool\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "ImageStampTool\\Properties\\AssemblyInfo.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:37:24.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\ImageStampTool\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "ImageStampTool\\Properties\\Resources.resx",
@@ -107,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ImageStampTool",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\ImageStampTool\\ImageStampTool\\ImageStampTool.csproj",
               "RelativeDocumentMoniker": "ImageStampTool\\ImageStampTool.csproj",

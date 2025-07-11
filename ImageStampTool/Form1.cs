@@ -332,7 +332,7 @@ namespace ImageStampTool
             
             try
             {
-                MessageBox.Show("Selected text: " + comboOutput.Text);
+            
 
                 if (pictureBox1.BackgroundImage == null)
                 {
